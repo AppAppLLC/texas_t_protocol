@@ -1,0 +1,14 @@
+# Python Bytecode & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+
+# System / Editor Caches
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
