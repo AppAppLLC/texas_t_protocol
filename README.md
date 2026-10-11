@@ -20,3 +20,9 @@ Built in accordance with local-first data minimization and child digital safety 
 
 ---
 *Maintained by AppApp LLC.*
+
+### Global Compliance & Interregional Architecture
+* **Baseline Security Standard:** Developed in strict alignment with Texas state cybersecurity principles and the Texas SCOPE Act.
+* **Institutional & Educational Scope:** Engineered to interface directly with EDU, institutional, and research-grade network domains globally.
+* **Jurisdictional Interoperability:** Texas standards define the local-first security foundation, designed for deterministic scaling, zero-trust telemetry, and multi-node ledger verification across international boundaries.
+* **Corporate Maintenance:** AppApp LLC.
