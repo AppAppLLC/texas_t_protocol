@@ -26,3 +26,19 @@ Built in accordance with local-first data minimization and child digital safety 
 * **Institutional & Educational Scope:** Engineered to interface directly with EDU, institutional, and research-grade network domains globally.
 * **Jurisdictional Interoperability:** Texas standards define the local-first security foundation, designed for deterministic scaling, zero-trust telemetry, and multi-node ledger verification across international boundaries.
 * **Corporate Maintenance:** AppApp LLC.
+
+### Multi-Device Hardware Cluster & Unified Transport
+* **Physical Nodes:**
+  - Node 8787: Mobile Endpoint Node A (iPhone / Galaxy)
+  - Node 8373: Mobile Endpoint Node B (Galaxy / iPhone)
+  - Tablet Node: Multi-Device Bridge Monitor & Display Station
+  - Control Station: Samsung Chromebook 2 (Terminal Host)
+* **Unified Communication Protocol:**
+  - Bluetooth Low Energy (BLE) Mesh & PTT Voice
+  - Local UDP Sockets & Wi-Fi Direct
+  - RF Radio Waves / RoIP & DECT Wireless Landline Gateway
+  - Satellite Reserve Transport
+* **Regulatory Compliance Framework:**
+  - Texas SCOPE Act (Youth Online Privacy & Parent Empowerment)
+  - Texas DVPPE Protective Communications Protocol
+  - Global EDU & Institutional Interoperability Baseline
